@@ -3,3 +3,7 @@
 * Derefter brainstormede vi vores produkt og skabte et overblik over hvilke features det krævede og nice to have udvidelser dertil. 
 * Vi semi enige om sprog og frameworks.
 * Opsatte github organization og repositories.
+
+
+### Dag 2 20-10
+* Videre brainstorming af produkt samt aftale på tech stack og UI library
