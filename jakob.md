@@ -7,3 +7,9 @@
 
 ### Dag 2 20-10
 * Videre brainstorming af produkt samt aftale på tech stack og UI library
+
+
+### Dag 3 21-10
+* Mere planlægning.
+* Sparing ift set-up af ASP.NET project.
+* Scaffold af Frontend project og opsætning af diverse libraries. Tilføjede DaisyUI og tailwind til UI. Og Pinia som et driftsikkert store til SSR Nuxt.
