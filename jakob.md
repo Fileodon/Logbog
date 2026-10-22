@@ -13,3 +13,8 @@
 * Mere planlægning.
 * Sparing ift set-up af ASP.NET project.
 * Scaffold af Frontend project og opsætning af diverse libraries. Tilføjede DaisyUI og tailwind til UI. Og Pinia som et driftsikkert store til SSR Nuxt.
+
+
+### Dag 4 22-10
+* Start på default authenticated layout i frontend project. Tilføjede icon package, og har som udgangspunkt valgt at bruge (Material Symbols Light)[https://icon-sets.iconify.design/material-symbols-light/]
+* Skrev Krafspecifikation
