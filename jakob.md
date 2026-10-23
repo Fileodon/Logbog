@@ -18,3 +18,9 @@
 ### Dag 4 22-10
 * Start på default authenticated layout i frontend project. Tilføjede icon package, og har som udgangspunkt valgt at bruge (Material Symbols Light)[https://icon-sets.iconify.design/material-symbols-light/]
 * Skrev Krafspecifikation
+* Lavede noget pair programming med Sebastian, for at få ham introduceret til frontend udvikling i Nuxt & Vue.
+
+
+### Dag 5 23-10
+* Se ind i Rapport krav og Lav en indledende struktur vi kan arbejde ud fra. Vi snakkede om at lave et krav om at i alle vores pull requests skal der være en reference til vores rapport, enten til et nyt afsnit eller afsnit der er skrevet mere på, så vi er sikre på at arbejdet er inkluderet i vores rapport. 
+* Færdiggjorde responsivt authenticated Layout. Mangler at skrive rapport til det, men næsten klar til pull request. 
