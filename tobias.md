@@ -14,3 +14,5 @@ Brainstormede idéer til projektet.
 ### Dag 4 | 22/10
 Skrevet Kravspecifikation. <br>
 Lavet models i api. 
+
+### Dag 5 | 23/10
