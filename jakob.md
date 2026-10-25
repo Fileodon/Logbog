@@ -32,3 +32,5 @@
 ### Dag 7
 * Skabte kort et overblik over libraries vi har i brug på frontend projektet, og lavede lidt noter til det i raporten.
 * Review a Sebastians kode, endte med at tilføje lidt til hans pull request med unauthenticated layout.
+* Skrev Rapport til standart layout og indhold af det. For at kunne lave en pull request. 
+* Så på lidt backend kode og commits :)
