@@ -16,3 +16,9 @@ Skrevet Kravspecifikation. <br>
 Lavet models i api. 
 
 ### Dag 5 | 23/10
+Database scaffolding
+Models
+
+### Dag 6 | 26/10
+Opsætning af service og controllers til rolle
+start opsætningen af service og controllers til organisations og permissions
