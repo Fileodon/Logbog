@@ -29,8 +29,15 @@
 ### Dag 6 24-10
 * Fridag :)
 
-### Dag 7
+### Dag 7 25-10
 * Skabte kort et overblik over libraries vi har i brug på frontend projektet, og lavede lidt noter til det i raporten.
 * Review a Sebastians kode, endte med at tilføje lidt til hans pull request med unauthenticated layout.
 * Skrev Rapport til standart layout og indhold af det. For at kunne lave en pull request. 
 * Så på lidt backend kode og commits :)
+
+### Dag 8 26-10
+* Undervisning, snak om krav til rapporten. 
+* Ugentligt sprint, gennemgik hvad vi nåede sidste uge ift produktet og opdaterede vores projekt board iteration 1 for at kunne få alle features vi har nået under vores sprints i Rapporten.
+* Møde med Flemming angående vores nuværende omstilling og vision for rapporten. 
+* Cleanup og implementering af naming standart på vores projekt board
+* 
