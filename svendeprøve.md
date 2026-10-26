@@ -37,3 +37,36 @@ Skal være obs på mulighederne i en teknologi - måske kig lidt mere ind i hver
 
 Flemming bullshitter ikke til svendeprøven! - Kun hvis han ved vi får en god karakter.
 <hr>
+
+# Mandag 26-10
+1. Point til svendeprøven
+> Buzzwords
+> 
+
+2. Rapporten
+> Aflever det som et dokument
+> Skriv en konklusion på både process og produkt
+> konklusionen skal gerne være relativ lang
+> Man må gerne tage fra kravspec
+> Husk at skrive om næsten alle funktioner
+> Skriv om vores viden
+> Det er ikke sikkert, at censor ser alle bilag
+> Skriv om sikkerhed, evt. grøn energi
+
+2.1 Værktøjer
+> Skriv hvilke værktøjer vi bruger til at udvikle
+> Procesmodeller og systemudviklingsmetoder
+
+2.2 Procesmodeller
+> Lean
+> Spiral
+> Agile
+> etc.
+
+2.3 systemudviklingsmetoder
+> OOAD
+> Xtreme programming
+> SPU (struktureret program udvikling)
+> etc.
+
+> Vi får bevis fredag 27/11

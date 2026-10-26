@@ -15,3 +15,10 @@
 > Projekt koordinering og opdeling
 > Påbegyndt frontend udvikling
 ### 23-10-2026
+> Login side på frontend
+> Footer på frontend
+
+### 26-10-2026
+> Oplæg om rapport
+> Pull request review på ændringer af footer fra Jakob
+
