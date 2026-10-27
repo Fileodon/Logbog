@@ -47,3 +47,6 @@
 * Startede med at skrive rapport ift open-fetch i vores nuxt project. Blev lidt side tracked og skrev en masse noter til andet relevant og skrive også
 * Lavede open-fetch integrationen færdig, og fik efterspurgt at vi tilføjet /api som prefix på hele api'en så vi kunne generere en enkelt client nemmere via open-fetch.
 * Arbejdede på Kravspecification.
+* Eslint implementering med workflow
+* Mere arbejde på kravspec og skriv noget eslint ind i rapporten.
+* Code review, og lidt arbejde på github workflows på vores egne runners.
