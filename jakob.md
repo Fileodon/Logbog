@@ -41,3 +41,9 @@
 * Møde med Flemming angående vores nuværende omstilling og vision for rapporten. 
 * Cleanup og implementering af naming standart på vores projekt board
 * Implementeret Nuxt open fetch generation på vores frontend imod lokal backend.
+
+
+### Dag 9 - 27-10
+* Startede med at skrive rapport ift open-fetch i vores nuxt project. Blev lidt side tracked og skrev en masse noter til andet relevant og skrive også
+* Lavede open-fetch integrationen færdig, og fik efterspurgt at vi tilføjet /api som prefix på hele api'en så vi kunne generere en enkelt client nemmere via open-fetch.
+* Arbejdede på Kravspecification.
