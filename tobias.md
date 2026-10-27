@@ -21,4 +21,8 @@ Models
 
 ### Dag 6 | 26/10
 Opsætning af service og controllers til rolle
-start opsætningen af service og controllers til organisations og permissions
+start opsætningen af service og controllers til organisations og permissions.
+
+### Dag 7 | 27/10
+Rapport skrivning
+Videreudvikling på service og controllers til organisationer og permissions.

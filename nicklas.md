@@ -11,4 +11,12 @@
 
 # 22/10/2026
 * Skrev kravspecifikation
-* Opsætning af logging modul i API
+* Opsætning af logging-modul i API
+
+# 23/10/2026
+* Database modeller
+* Implementation af Unit of Work service
+
+# 26/10/2026
+* Primært undervisning
+* Lidt rapport og diskussioner om implementering af forskellige ting, bl.a. logikken bag filfordeling imellem flere servere
