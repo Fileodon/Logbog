@@ -40,4 +40,4 @@
 * Ugentligt sprint, gennemgik hvad vi nåede sidste uge ift produktet og opdaterede vores projekt board iteration 1 for at kunne få alle features vi har nået under vores sprints i Rapporten.
 * Møde med Flemming angående vores nuværende omstilling og vision for rapporten. 
 * Cleanup og implementering af naming standart på vores projekt board
-* 
+* Implementeret Nuxt open fetch generation på vores frontend imod lokal backend.
