@@ -21,4 +21,5 @@
 ### 26-10-2026
 > Oplæg om rapport
 > Pull request review på ændringer af footer fra Jakob
-
+> Tilføjet emnet "værktøjer" til kravspecifikation
+> Påbegyndt connections overview
