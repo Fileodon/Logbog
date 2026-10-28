@@ -54,3 +54,5 @@
 ### Dag 10 - 28-10 
 * Implementation af test i frontend og pull request dertil, mangler noget i rapporten dertil
 * Skrev Kravspecification
+* Review af api jwt refactor
+* Scope nye tickets for frontend og andre epics som api tickets også kan laves på.
