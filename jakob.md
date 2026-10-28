@@ -50,3 +50,7 @@
 * Eslint implementering med workflow
 * Mere arbejde på kravspec og skriv noget eslint ind i rapporten.
 * Code review, og lidt arbejde på github workflows på vores egne runners.
+
+### Dag 10 - 28-10 
+* Implementation af test i frontend og pull request dertil, mangler noget i rapporten dertil
+* Skrev Kravspecification
