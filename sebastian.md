@@ -10,16 +10,27 @@
 -----------
 ### 21-10-2026
 > Valgt backend sprog - c#
+-----------
 ### 22-10-2026
 > Skrevet kravspecifikation
 > Projekt koordinering og opdeling
 > Påbegyndt frontend udvikling
+> Lavet et script til at eksportere mermaid diagrammer
+-----------
 ### 23-10-2026
 > Login side på frontend
 > Footer på frontend
-
+-----------
 ### 26-10-2026
 > Oplæg om rapport
 > Pull request review på ændringer af footer fra Jakob
 > Tilføjet emnet "værktøjer" til kravspecifikation
 > Påbegyndt connections overview
+-----------
+### 27-10-2026
+> Fortsat udvikling på connections overview og åbnet pull request
+> Tilrettet diverse sektioner i kravspecifikation
+-----------
+### 28-10-2026
+> Tilføjet oversigtstabeller i kravspecifikation
+
