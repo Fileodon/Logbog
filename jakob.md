@@ -56,3 +56,8 @@
 * Skrev Kravspecification
 * Review af api jwt refactor
 * Scope nye tickets for frontend og andre epics som api tickets også kan laves på.
+
+### Dag 11 - 29-10
+* Skrev noget Rapport til vores integration med Pinia stores
+* Sikkerheds research og hvordan vi bedst håndtere og beskytter vores tokens client side.
+* lavede AuthStore til håndtering af login, registration og refresh. Og i fremtiden andre auth endpoints. Med håndtering af tokens der for nu.
