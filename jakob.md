@@ -61,3 +61,4 @@
 * Skrev noget Rapport til vores integration med Pinia stores
 * Sikkerheds research og hvordan vi bedst håndtere og beskytter vores tokens client side.
 * lavede AuthStore til håndtering af login, registration og refresh. Og i fremtiden andre auth endpoints. Med håndtering af tokens der for nu.
+* Fortsat arbejde på auth store, håndtering af refresh token i httpOnly cookie i stedet, lidt udfordringer for at få middleware til at redirecte væk fra login ruter for brugere der er logget ind.
