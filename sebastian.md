@@ -33,4 +33,8 @@
 -----------
 ### 28-10-2026
 > Tilføjet oversigtstabeller i kravspecifikation
+> Fikset github runner
+### 29-10-2026
+> Tilføjet color mode
+> Tilføjet servere til sidebar
 
