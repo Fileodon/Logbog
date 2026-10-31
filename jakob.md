@@ -67,4 +67,6 @@
 ### Dag 12 - 30-10
 * Skrev noget rapport til sikkerhed og system
 * færdiggjorde authStore branch klar til review og passer checks
-* 
+*
+### Dag 13 - 31-10
+* Lavede starten på Users table, prøvede at simplificere koden lidt i forhold til hvordan det så ud på connections table. kunne evt lave et komponent for at opnå lean ensartede tables. 
