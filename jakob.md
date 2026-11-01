@@ -70,3 +70,8 @@
 *
 ### Dag 13 - 31-10
 * Lavede starten på Users table, prøvede at simplificere koden lidt i forhold til hvordan det så ud på connections table. kunne evt lave et komponent for at opnå lean ensartede tables. 
+
+
+### dag 14 - 01-11
+* Færdiggjorde users table og edit modal. 
+* lavede review på sebastians pull request.
