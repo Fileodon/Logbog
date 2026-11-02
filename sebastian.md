@@ -37,4 +37,10 @@
 ### 29-10-2026
 > Tilføjet color mode
 > Tilføjet servere til sidebar
-
+### 30-10-2026
+> Påbegyndt oprettelse af ny organisation 
+### 02-11-2026
+> Færdiggjort oprettelse af ny organisation layout
+> Ændret root layout til at indeholde main
+> Oprettet komponent til input
+> Skrevet rapport om ny organisation
