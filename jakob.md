@@ -67,7 +67,7 @@
 ### Dag 12 - 30-10
 * Skrev noget rapport til sikkerhed og system
 * færdiggjorde authStore branch klar til review og passer checks
-*
+
 ### Dag 13 - 31-10
 * Lavede starten på Users table, prøvede at simplificere koden lidt i forhold til hvordan det så ud på connections table. kunne evt lave et komponent for at opnå lean ensartede tables. 
 
@@ -75,3 +75,11 @@
 ### dag 14 - 01-11
 * Færdiggjorde users table og edit modal. 
 * lavede review på sebastians pull request.
+
+### Dag 15 - 02-11
+* Ugentligt sprint, vi gennemgik hvad vi har lavet den forrige uge og fik sørget for at sprint var korrekt up to data ift hvad den forrige uge indeholdte. 
+* lavede nogle nye tickets med ideer fra mødes og flere ift audit logs
+* Sparring med Sebastian angående form input komponent og andre spørgsmål.
+* lavede users table under organisations settings i navigationen
+* forbedrede lidt ift at arbejde med tables so det bliver mere effektivt og nemmere at arbejde med tables og holde dem ens.
+* Begyndte på at lave en forbedret composable til at håndtere forms på resourcer der hurtigt skal opdateres
