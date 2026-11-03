@@ -83,3 +83,8 @@
 * lavede users table under organisations settings i navigationen
 * forbedrede lidt ift at arbejde med tables so det bliver mere effektivt og nemmere at arbejde med tables og holde dem ens.
 * Begyndte på at lave en forbedret composable til at håndtere forms på resourcer der hurtigt skal opdateres
+
+### Dag 16 - 03-11
+* tilføjede statistikker til user og /settings/roles 
+* forsøgte forgæves at få et nice collapsible transition op at køre på forms i tables
+* implementerede nogle nye komponenter på tværs af appen også
