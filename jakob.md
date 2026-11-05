@@ -88,3 +88,13 @@
 * tilføjede statistikker til user og /settings/roles 
 * forsøgte forgæves at få et nice collapsible transition op at køre på forms i tables
 * implementerede nogle nye komponenter på tværs af appen også
+* review a pull request fix tests
+
+### Dag 17 - 04-11
+* Brugte starten af dagen på at skrive rapport. Punkter omrking vores brugerflade og værktøjer samt users og roles manangement i frontend.
+* startede på audit logging - planlægning af struktur og generel onboarding af mig selv til C# igen.
+
+### Dag 18 - 05-11
+* Lavede klasse diagram af audit logs, imens jeg researchede standart strukture for audit log systemer.
+* Scaffoldede klasser, child klasser og interceptors.
+* Vores møde i dag, fik vi lavet lidt gode fremskridt på strukturen af vores rapport. Indtil videre har det været lidt bare at smide ting ind under punkter vi syntes giver mening, men nu har vi ændret strukturen lidt, sådan den forhåbenligt får en lidt bedere introduktion og generel indledning. 
