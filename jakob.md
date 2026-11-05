@@ -99,3 +99,4 @@
 * Scaffoldede klasser, child klasser og interceptors.
 * Vores møde i dag, fik vi lavet lidt gode fremskridt på strukturen af vores rapport. Indtil videre har det været lidt bare at smide ting ind under punkter vi syntes giver mening, men nu har vi ændret strukturen lidt, sådan den forhåbenligt får en lidt bedere introduktion og generel indledning. 
 * arbejde på audit logs, fandt bug hvor rolle navn var unikt index.
+* begyndte at fixe bug på roles, men det index jeg ville skulle fjerne på normalized name, bruges af mange af hjælpefunctionerne, så jeg tror vi ville skulle overwrite en del af base Identitys role system. 
