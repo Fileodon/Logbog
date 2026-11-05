@@ -44,3 +44,9 @@
 > Ændret root layout til at indeholde main
 > Oprettet komponent til input
 > Skrevet rapport om ny organisation
+### 03-11-2026
+> Audit log side påbegyndt og færdiggjort
+### 04-11-2026
+> Påbegyndt fil navigation side
+> Skrevet rapport til audit log side
+
