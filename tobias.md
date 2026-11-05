@@ -32,3 +32,18 @@ Færdig opsat basic logik for organisationer og permissions.
 
 ### Dag 9 | 29/10
 Færdiggør udviddet logik på organisation og permissions.
+
+### Dag 10 | 30/10
+Opsætning af BitShifting og bitmasking
+
+### Dag 11 | 02/11
+Færdig opsætning af BitShifting og bitmasking
+
+### Dag 12 | 03/11
+Rapport skrivning til rolle, permission og organisationer
+
+### Dag 13 | 04/11
+Rapport skrivning, diagram, og business logik til UserOrganizations
+
+### Dag 14 | 05/11
+
