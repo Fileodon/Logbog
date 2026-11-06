@@ -101,3 +101,7 @@
 * arbejde på audit logs, fandt bug hvor rolle navn var unikt index.
 * begyndte at fixe bug på roles, men det index jeg ville skulle fjerne på normalized name, bruges af mange af hjælpefunctionerne, så jeg tror vi ville skulle overwrite en del af base Identitys role system. 
 * Færdiggjorde POC på vores audit log system.
+
+### Dag 19 - 06-11
+* Arbejde på audit logs, virkede ikke på added da organization ikke fandes endnu, men fandt fix,
+* Fik scaffolded og implementeret alt base scaffolding. startede på controller,service og repository. 
