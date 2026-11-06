@@ -105,3 +105,4 @@
 ### Dag 19 - 06-11
 * Arbejde på audit logs, virkede ikke på added da organization ikke fandes endnu, men fandt fix,
 * Fik scaffolded og implementeret alt base scaffolding. startede på controller,service og repository. 
+* lavede Controller Service og Repository med functionalitet, og er ved at få DTOer og dynamiske ting på plads
