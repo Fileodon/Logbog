@@ -110,3 +110,7 @@
 ### Dag 20 - 07-11
 * Oprydning af kode til audit logs for at få det mere in line med resten af kode basen, og bedre genbrugelighed og læsbarhed.
 * Lavede resterende endpoints til at få resource specifikke audit logs.
+
+### Dag 21 - 08-11
+* Skrev rapport til audit log
+* Begyndte på implementering af Organisationer i frontend, lidt løsninger og tilføjelser til backend for at understøtte hvad jeg gerne vil i frontend.
