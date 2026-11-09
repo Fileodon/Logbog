@@ -46,4 +46,12 @@ Rapport skrivning til rolle, permission og organisationer
 Rapport skrivning, diagram, og business logik til UserOrganizations
 
 ### Dag 14 | 05/11
+Manglende DTO'er
 
+### Dag 15 | 06/11
+Manglende DTO'er
+
+### Dag 16 | 09/11
+Sprint møde
+Rapport skrivning
+manglende DTO'er og UserOrganization.
