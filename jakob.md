@@ -114,3 +114,11 @@
 ### Dag 21 - 08-11
 * Skrev rapport til audit log
 * Begyndte på implementering af Organisationer i frontend, lidt løsninger og tilføjelser til backend for at understøtte hvad jeg gerne vil i frontend.
+
+### Dag 22 - 09-12
+* Sprint møde
+* Planlægning og overblik af hvad vi mangler for at have produktet i en stabil state med must have funktionalitet 
+* Vejledning med Flemming, for at få noget feedback på vores nuværende rapport struktur
+* Tilføjede lang TODO liste til Rapporten, som kan fungere som løbende todo, og reminders om hvad vi skal huske at holde ensartet og up to date. 
+* fik lavet ændringer på adudit log fra review
+* review a tobias branch
