@@ -49,4 +49,16 @@
 ### 04-11-2026
 > Påbegyndt fil navigation side
 > Skrevet rapport til audit log side
-
+### 05-11-2026
+>
+>
+### 09-11-2026
+> API Hosting
+> Rapport design gennemgang med Flemming
+> Påbegynde af CLI
+### 10-11-2026
+> CLI fortsættelse (on hold)
+> API userorganizationservice og repo rettet implementering
+> Automatisk database snake case
+> Rettet base path url til hosting
+> Påbegyndt API middleware authorization
