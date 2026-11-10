@@ -122,3 +122,8 @@
 * Tilføjede lang TODO liste til Rapporten, som kan fungere som løbende todo, og reminders om hvad vi skal huske at holde ensartet og up to date. 
 * fik lavet ændringer på adudit log fra review
 * review a tobias branch
+* Refactors af organization form i frontend for at genbrude til edit og create
+
+### Dag 23 - 10-11 
+* Skrev rapport for, Fronend modules, Pinia, eslint + libaries DaisyUI og tailwind CSS
+* Hjalp med at blive færdig med UserOrganization CRUD pull request.
