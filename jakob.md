@@ -126,4 +126,13 @@
 
 ### Dag 23 - 10-11 
 * Skrev rapport for, Fronend modules, Pinia, eslint + libaries DaisyUI og tailwind CSS
+* Lavede rapport struktur hændelses / reference tabel.
 * Hjalp med at blive færdig med UserOrganization CRUD pull request.
+* Mere tilrettelse af UserOrganizationer branchen ud fra ændringer på api standarter
+* lille refactor af api i frontenden grundet ændringer i backend paths. Fix organization store.
+
+
+### Dag 24 - 11-11
+* Lavede system arkitektur diagram. mermaid js var ikke særligt venligt at arbejde med ift til lige den type diagram, men det blev ok
+* Skrev System rapport delen. 
+* Færdiggjorde organizations create og edit så langt jeg lige kunne, men der er blevet misset lidt api. 
