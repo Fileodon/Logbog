@@ -136,3 +136,13 @@
 * Lavede system arkitektur diagram. mermaid js var ikke særligt venligt at arbejde med ift til lige den type diagram, men det blev ok
 * Skrev System rapport delen. 
 * Færdiggjorde organizations create og edit så langt jeg lige kunne, men der er blevet misset lidt api. 
+
+
+### Dag 25 - 12-11
+* Fik lavet backend til korrekt at kunne opdatere en organization. 
+* Refactor af frontend form system sådan vi kan håndtere errors bedere i UI, sådan de bliver korekt vist under det fejlede input
+* Vi gik over rapportens struktur endnu en gang, researchede problemstillinger og formuleringer, for at få en ide om hvordan man lige gør sådan noget. 
+* Fik gået igennem funktionalitet sammen med Niklas vi endnu ikke har skrevet ind i rapporten
+* Audit logs i frontend, lidt ændringer til DTOen også.
+* Stort refactor på roller og permissions da de ikke var lavet som aftalt.
+* scaffold alt frontend api kommunikation til userorganisationer roller og permissions
