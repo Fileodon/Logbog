@@ -155,4 +155,5 @@
 
 ### Dag 27 - 14-11
 * Færdiggjorde fixet på CLI sådan det nu virker som fuldt flow.
-* 
+* Lavede frontend til at forbinde nye servere og navigere deres filsystem.
+* Tilføj sftp fil upload i frontend & navigering til fil skærm uden editor da der ikke er støtte for det endnu.
