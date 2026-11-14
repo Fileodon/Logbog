@@ -146,3 +146,13 @@
 * Audit logs i frontend, lidt ændringer til DTOen også.
 * Stort refactor på roller og permissions da de ikke var lavet som aftalt.
 * scaffold alt frontend api kommunikation til userorganisationer roller og permissions
+
+
+### Dag 26 - 13-11
+* Færdiggjorde users og roller i frontend.
+* Fik lavet development miljø med docker containere for at kunne udvikle og teste på CLIen
+* lavede nogle ændringer til apien til at passe med ændringer i CLIen
+
+### Dag 27 - 14-11
+* Færdiggjorde fixet på CLI sådan det nu virker som fuldt flow.
+* 
