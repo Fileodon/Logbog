@@ -157,3 +157,16 @@
 * Færdiggjorde fixet på CLI sådan det nu virker som fuldt flow.
 * Lavede frontend til at forbinde nye servere og navigere deres filsystem.
 * Tilføj sftp fil upload i frontend & navigering til fil skærm uden editor da der ikke er støtte for det endnu.
+
+
+### Dag 28 15-11
+* Overblik over feedback modtaget af flemming
+* Noter til hvad jeg gerne vil have skrevet til i rapporten i dag
+* Se på pull requests
+* Skrev en masse rapport
+
+### Dag 29 16-11
+* Skrevet rapport til sftp handlinger, fil redigering & fil distributions model
+* Installationsguides til frontend, backend og CLI
+* Fik fuldt CLI og sftp flow til at virke efter ændringer til api og cli
+* Implemetnerede logout endpoint og forbedrede login form til at følge form standarter.
