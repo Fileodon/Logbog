@@ -62,3 +62,27 @@
 > Automatisk database snake case
 > Rettet base path url til hosting
 > Påbegyndt API middleware authorization
+### 11-11-2026
+> Færdiggjort API middleware authorization
+> Skrevet rapport
+### 12-11-2026
+> Planlagt rapport Omstrukturering
+> Skrevet rapport
+### 13-11-2026
+> Lavet udkast til Flemming om rapport
+> 
+### 14-11-2026
+> Omstruktureret opbyggelse af CLI
+> Ændret API endpoints til at simplificere Omstrukturering
+### 15-11-2026
+> Skrevet Rapport
+> Opdateret CLI til ny brug
+### 16-11-2026
+> Skrevet rapport, rettet noter fra Jakob
+### 17-11-2026
+> Skrevet rapport, rettet noter fra Jakob
+> Tilføjet eget IP endpoint
+### 18-11-2026
+> Lavet exception logger (blev erstattet af anden løsning)
+> Færdiggjort rapport
+> Rettet CLI kald til internt endpoint.
