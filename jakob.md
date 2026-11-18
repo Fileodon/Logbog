@@ -175,3 +175,10 @@
 * Læste hele rapporten igennem og skrev mine noter til de andre, der ekslusivt skal skrive rapport i dag, og lagde en plan for min dag.
 * Implementation af Alle SFTP actions
 * cleanup af noget UI på frontend, tilføj toasts for nemmere fejl visnig
+* Rapport nye screenshots a visuel overblik, titler til komponent oversigt genskrivning af ting mm.
+
+### Dag 31 18-11
+* Færdiggjorde fil distibution fra frontend til at passe med ændringer på backend
+* Hængerpartier på frontend
+* Rapport, Komponent oversigt, gennemgang af rapport hvor jeg omskriver og tænker over diagrammering dertil. 
+* Rapport, Rapport, Rapport
