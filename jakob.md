@@ -170,3 +170,8 @@
 * Installationsguides til frontend, backend og CLI
 * Fik fuldt CLI og sftp flow til at virke efter ændringer til api og cli
 * Implemetnerede logout endpoint og forbedrede login form til at følge form standarter.
+
+### Dag 30 17-11
+* Læste hele rapporten igennem og skrev mine noter til de andre, der ekslusivt skal skrive rapport i dag, og lagde en plan for min dag.
+* Implementation af Alle SFTP actions
+* cleanup af noget UI på frontend, tilføj toasts for nemmere fejl visnig
