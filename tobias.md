@@ -55,3 +55,25 @@ Manglende DTO'er
 Sprint møde
 Rapport skrivning
 manglende DTO'er og UserOrganization.
+
+### Dag 17 | 10/11
+Rapport skrivning
+
+### Dag 19 | 12/11
+Rapport skrivning
+
+### Dag 20 | 13/11
+Rapport skrivning
+
+### Dag 21 | 16/11
+Frontend, Implementeret logout med API-kald, nulstilling af token og viderestilling til login.
+Ændret accessJwt fra null til undefined.
+Ændret logout i headeren til en knap.
+Tilføjet bekræftelse og validering af adgangskode ved registrering.
+Opdateret login og registrering til at bruge submit.
+
+### Dag 22 | 17/11
+Rapport
+
+### Dag 23 | 18/11
+Rapport
